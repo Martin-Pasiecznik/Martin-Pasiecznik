@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin-Pasiecznik
-- 👀 I’m interested in Web development and python coding.
-- 🌱 I’m currently learning Web development and python.
+- 👀 I’m interested in Web development and app development.
+- 🌱 I’m currently learning Web development and app development.
 - 💞️ I’m looking to collaborate on projects related to my interests. 
 - 📫 How to reach me martinpasiecznik@gmail.com
 
